@@ -14,6 +14,11 @@ https://github.com/Rishabhk07/Custom-Toggle-Button
                               
 預覽
 --------
+<p align="center">
+  <img src="https://i.imgur.com/QPt0hx1.png" width="200"/>
+  <img src="https://i.imgur.com/QPt0hx1.png" width="200"/>
+</p>
+
 ![image](https://i.imgur.com/QPt0hx1.png)                                      
 
 ![image](https://i.imgur.com/SNSL2Tk.png)                                      
