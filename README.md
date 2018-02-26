@@ -15,8 +15,8 @@ https://github.com/Rishabhk07/Custom-Toggle-Button
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/U8PTnet.png" width="250"/>
-  <img src="https://i.imgur.com/SNSL2Tk.png" width="250"/>
-  <img src="https://i.imgur.com/f0Kw3JB.png" width="250"/>
+  <img src="https://i.imgur.com/U8PTnet.png" width="260"/>
+  <img src="https://i.imgur.com/SNSL2Tk.png" width="260"/>
+  <img src="https://i.imgur.com/f0Kw3JB.png" width="260"/>
 </p>                                 
 
